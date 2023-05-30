@@ -1,0 +1,56 @@
+body {
+  margin: 0px;
+}
+
+.page {
+  width: 1092px;
+  margin: 0 auto auto;
+  padding-top: 70px;
+}
+
+
+nav {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+
+}
+
+ul {
+  list-style: none;
+  display: flex;
+  gap: 64px;
+}
+
+main {
+  display: flex;
+  justify-content: center;
+  margin: 102px auto 157px auto;
+  gap: 77px;
+  
+}
+
+h1 {
+  font-size: 36px;
+  line-height: 40px;
+  font-family: 'JetBrains Mono', monospace;
+  margin-bottom: 59px;
+  font-weight: bold;
+}
+
+span {
+  color: #00BFA6;
+}
+
+section p {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 16px;
+  text-align: center;
+
+}
+
+footer {
+  font-size: 14px;
+  font-family: 'JetBrains Mono', monospace;
+  text-align: center;
+}
